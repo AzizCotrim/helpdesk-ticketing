@@ -1,3 +1,4 @@
 <Solution>
   <Project Path="HelpDesk.Api/HelpDesk.Api.csproj" />
+  <Project Path="HelpDesk.Domain/HelpDesk.Domain.csproj" />
 </Solution>
